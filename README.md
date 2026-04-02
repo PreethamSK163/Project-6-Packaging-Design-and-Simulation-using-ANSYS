@@ -1,4 +1,4 @@
-# Project — Packaging Design and Simulation using ANSYS
+# Packaging Design and Simulation using ANSYS
 
 > A hands-on exploration of semiconductor packaging — covering package types, ATMP processes, thermal simulation of flip-chip BGA packages, reliability testing, and 3D package cross-section modeling using ANSYS Electronics Desktop (AEDT).
 
@@ -102,4 +102,5 @@ Created wire bonds using JEDEC 4-point profile — connecting die bond pads to s
 | **Program** | NASSCOM FutureSkills Prime — VSD (VLSI System Design) |
 | **LinkedIn** | [linkedin.com/in/preethamsk16](https://www.linkedin.com/in/preethamsk16) |
 | **GitHub** | [github.com/PreethamSK163](https://github.com/PreethamSK163) |
+| **Portfolio** | [preethamsk163.github.io](https://preethamsk163.github.io) |
 | **Email** | preethamsk163@gmail.com |
